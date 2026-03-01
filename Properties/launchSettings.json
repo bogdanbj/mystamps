@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "mystamps": {
+      "commandName": "Project",
+      "commandLineArgs": "https://wayback.archive-it.org/9155/20170920143633/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=2&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP",
+      "workingDirectory": "C:\\Git\\mystamps"
+    },
+    "mystamps-all": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Git\\mystamps"
+    }
+  }
+}

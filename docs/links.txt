@@ -1,0 +1,47 @@
+﻿# 1-200
+https://wayback.archive-it.org/9155/20170920145307/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=1&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 201-400
+https://wayback.archive-it.org/9155/20170920143633/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=2&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 401-600
+https://wayback.archive-it.org/9155/20170920145312/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=3&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 601-800
+https://wayback.archive-it.org/9155/20170920153840/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=4&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 801-1000
+https://wayback.archive-it.org/9155/20170920173041/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=5&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 1001-1200
+https://wayback.archive-it.org/9155/20170920204811/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=6&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 1201-1400
+https://wayback.archive-it.org/9155/20170921002328/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=7&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 1401-1600
+https://wayback.archive-it.org/9155/20170921054152/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=8&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 1601-1800
+https://wayback.archive-it.org/9155/20170921153114/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=9&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 1801-2000
+https://wayback.archive-it.org/9155/20170922041258/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=10&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 2001-2200
+https://wayback.archive-it.org/9155/20170922121846/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=11&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 2201-2400
+https://wayback.archive-it.org/9155/20170922175239/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=12&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 2401-2600
+https://wayback.archive-it.org/9155/20170922210132/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=13&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 2601-2800
+https://wayback.archive-it.org/9155/20170922230631/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=14&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+# 2801-3000
+https://wayback.archive-it.org/9155/20170923003627/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=15&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+
+## 3001-3200
+#https://wayback.archive-it.org/9155/20170923014253/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=16&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+## 3201-3400
+#https://wayback.archive-it.org/9155/20170923022844/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=17&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+## 3401-3600
+#https://wayback.archive-it.org/9155/20170923030155/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=18&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+## 3601-3800
+#https://wayback.archive-it.org/9155/20170923032832/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=19&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+## 3801-4000
+#https://wayback.archive-it.org/9155/20170923034925/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=20&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+## 4001-4200
+#https://wayback.archive-it.org/9155/20170923040700/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=21&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+## 4201-4400
+#https://wayback.archive-it.org/9155/20170923042507/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=22&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
+## 4401-4555
+#https://wayback.archive-it.org/9155/20170923043934/http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(?.ANYP.)+Or+(?.ANYI.+And+null.B742.)&l=0&d=STMP&p=23&u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&r=0&f=S&Sect1=STMP
