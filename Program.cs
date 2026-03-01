@@ -100,8 +100,8 @@ namespace MyStamps
                             parser.ParseStampPage(stamp, stampHtml);
 
                         }
+                        //Console.WriteLine(stamp.Image);
                     }
-                    //Console.WriteLine("done");
                 }
                 catch (Exception ex)
                 {

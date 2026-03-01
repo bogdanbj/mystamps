@@ -113,6 +113,9 @@ namespace mystamps.Utils
             // Decode HTML entities (including &nbsp;)
             text = HttpUtility.HtmlDecode(text);
 
+            // Replace Unicode left and right single quotation marks with a single quote
+            text = text.Replace('\u2018', '\'').Replace('\u2019', '\'');
+
             // Replace multiple whitespace characters with single spaces
             text = System.Text.RegularExpressions.Regex.Replace(text, @"\s+", " ");
 
