@@ -1,0 +1,33 @@
+# Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.log
+
+# Visual Studio Code workspace
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Others
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.cache
+*.ilk
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.scc
